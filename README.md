@@ -3,7 +3,7 @@ This Application is an react application, i use material-UI for design, and for 
 ![screenshot](https://raw.githubusercontent.com/prathmesh07/Easy-News/main/screenshots/page1.PNG)
 ![screenshot](https://raw.githubusercontent.com/prathmesh07/Easy-News/main/screenshots/page2.PNG)
 
-Reference : https://github.com/adrianhajdin/project_news_alan_ai
+
 
 # Getting Started with Create React App
 
