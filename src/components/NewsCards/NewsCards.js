@@ -42,6 +42,7 @@ const NewsCards = ({ articles, activeArticle }) => { //props are there articles,
         ))}
       </Grid>
     </Grow>
+    
   );
 };
 
